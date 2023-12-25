@@ -103,4 +103,8 @@
   .project-intro{
     width: auto;
   }
+  .project-img,
+  .project-img-2{
+    width: auto;
+  }
 }
