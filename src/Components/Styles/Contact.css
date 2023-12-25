@@ -64,6 +64,9 @@
 .contact-right h1 {
   color: blue;
 }
+.contact-right h2 {
+  font-family: 'Inter';
+}
 .contact-right h3 {
   position: relative;
   top: -85px;

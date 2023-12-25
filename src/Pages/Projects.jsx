@@ -5,7 +5,7 @@ function Projects() {
   return (
     <div className="projects-container">
       <h1>Projects </h1>
-      <div className="project">
+      <div className="project1">
         <div className="project-img"></div>
         <div className="project-intro">
           <div className="project-intro-head">Travel With Us</div>
@@ -40,7 +40,8 @@ function Projects() {
           </div>
         </div>
       </div>
-      <div className="project">
+      
+      <div className="project2">
         <div className="project-intro">
           <div className="project-intro-head">Portfolio</div>
           <div className="project-intro-body">
