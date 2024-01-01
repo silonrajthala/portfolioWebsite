@@ -10,7 +10,8 @@
   color: blue;
 }
 .project1,
-.project2 {
+.project2,
+.project0 {
   padding: 50px 20px;
   display: flex;
   flex-direction: row;
@@ -45,6 +46,19 @@
   border-radius: 20px;
   z-index: 0;
 }
+.project-img-0 {
+  height: 400px;
+  width: 65%;
+
+  min-height: 250px;
+  min-width: 400px;
+  background-image: url("../../images/project0.png");
+  background-size: cover;
+  background-position: center;
+
+  border-radius: 20px;
+  z-index: 0;
+}
 .project-intro {
   padding: 50px;
   width: 35%;
@@ -55,8 +69,7 @@
   font-size: x-large;
   font-weight: bolder;
 }
-.project-intro-body {
-}
+
 .project-intro-tail {
   padding: 20px;
   width: auto;
@@ -101,11 +114,21 @@
     gap: 20px;
     border-radius: 20px;
   }
+  .project0 {
+    padding: 50px 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 20px;
+    border-radius: 20px;
+  }
   .project-intro{
     width: auto;
   }
   .project-img,
-  .project-img-2{
+  .project-img-2,
+  .project-img-0
+
+  {
     width: auto;
     min-width: 200px;
   }
