@@ -18,7 +18,7 @@ function Projects() {
           <div className="project-intro-tail">
             <div className="react">
               <div>React</div>
-              <div>CSS</div>
+              <div>Vanila CSS</div>
             </div>
           </div>
           <div className="links">
@@ -86,7 +86,7 @@ function Projects() {
           <div className="project-intro-tail">
             <div className="react">
               <div>React</div>
-              <div>CSS</div>
+              <div>Vanila CSS</div>
             </div>
           </div>
           <div className="links">
