@@ -97,7 +97,11 @@
   color: black;
 }
 .links a {
+  color: black;
   text-decoration: none;
+}
+.links a:hover{
+  color:blue;
 }
 @media screen and (max-width:679px) {
   .project1 {

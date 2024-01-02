@@ -24,7 +24,7 @@ body {
   z-index: -1;
 }
 .text-about {
-  height: 500px; /* Set the desired height */
+  height: auto; 
 }
 .text-about h1 {
   color: blue;

@@ -46,7 +46,8 @@
          background-color: white;
          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         position: fixed;
-        transition: 0.3s ease-in-out;
+        transition: top 0.3s ease-in-out;
+        top: 0;
         z-index: 1;
         
         }
