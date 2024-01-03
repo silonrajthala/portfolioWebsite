@@ -21,10 +21,12 @@ function Home() {
               <img src="https://skillicons.dev/icons?i=html" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=css" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=js" alt="skill-icon"></img>
-              <img src="https://skillicons.dev/icons?i=nodejs" alt="skill-icon"></img>
-              <img src="https://skillicons.dev/icons?i=figma" alt="skill-icon"></img>
+              <img src="https://skillicons.dev/icons?i=react" alt="skill-icon"></img>
+              {/* <img src="https://skillicons.dev/icons?i=next" alt="skill-icon"></img>
+              <img src="https://skillicons.dev/icons?i=scss" alt="skill-icon"></img>
+              <img src="https://skillicons.dev/icons?i=tailwind" alt="skill-icon"></img> */}
+              <img src="https://skillicons.dev/icons?i=flutter" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=dart" alt="skill-icon"></img>
-              <img src="https://skillicons.dev/icons?i=mysql" alt="skill-icon"></img>
             
           </div>
         </div>
