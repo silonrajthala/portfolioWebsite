@@ -10,8 +10,8 @@
   color: blue;
 }
 .project1,
-.project2,
-.project0 {
+.project0,
+.project3 {
   padding: 50px 20px;
   display: flex;
   flex-direction: row;
@@ -19,6 +19,15 @@
   border-radius: 20px;
   background-color: #fff;
 
+}
+.project2
+{
+  padding: 50px 20px;
+  display: flex;
+  flex-direction: row-reverse;
+  width: auto;
+  border-radius: 20px;
+  background-color: #fff;
 }
 .project-img {
   height: 400px;
@@ -59,6 +68,19 @@
   border-radius: 20px;
   z-index: 0;
 }
+.project-img-3 {
+  height: 400px;
+  width: 65%;
+
+  min-height: 250px;
+  min-width: 400px;
+  background-image: url("../../images/project3.png");
+  background-size: cover;
+  background-position: center;
+
+  border-radius: 20px;
+  z-index: 0;
+}
 .project-intro {
   padding: 50px;
   width: 35%;
@@ -86,7 +108,7 @@
   background-color: whitesmoke;
   box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
   border-radius: 20px;
-  width: 100px;
+  width: 120px;
 }
 .links {
   padding: 20px;
