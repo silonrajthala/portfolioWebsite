@@ -147,12 +147,21 @@
     gap: 20px;
     border-radius: 20px;
   }
+  .project3 {
+    padding: 50px 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 20px;
+    border-radius: 20px;
+  }
   .project-intro{
     width: auto;
   }
   .project-img,
   .project-img-2,
-  .project-img-0
+  .project-img-0,
+  .project-img-3
+
 
   {
     width: auto;
