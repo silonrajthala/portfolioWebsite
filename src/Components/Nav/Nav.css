@@ -46,6 +46,7 @@
         justify-content: flex-start; 
         align-items: flex-start;
          width: 100%;
+         height: auto;
          background-color: white;
          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         position: fixed;
@@ -55,7 +56,7 @@
         
         }
         .navBar.active{
-          top:-250px
+          top:-280px
         }
         #mobile{
           display: flex;
