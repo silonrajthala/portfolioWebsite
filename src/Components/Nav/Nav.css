@@ -38,9 +38,9 @@
   .navBar a:hover::before{
     transform: scaleX(1);
   }
-  .navBar a:hover {
+  /* .navBar a:hover {
     color: blue;
-  }
+  } */
  
   #mobile{
     display: none;
