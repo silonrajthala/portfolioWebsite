@@ -12,7 +12,9 @@ function Home() {
         <div className="hero-content">
           <div className="hero-text">
             <h1>Front-End Developer</h1>
-            <p>Hi, I'm Silon Rajthala. A passionate Front-end React Developer based in Bhaktapur, Nepal. 📍</p>
+
+            <p>Hi, I'm Silon Rajthala. A passionate Front-end React Developer based in Bhaktapur, Nepal.<span role="img" aria-label="Smiley Face">📍</span>
+</p>
           </div>
           <div className="hero-image"></div>
         </div><br/>

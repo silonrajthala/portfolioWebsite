@@ -25,7 +25,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://github.com/silonrajthala/fitnessWebsite"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Code{" "}
               <svg
@@ -45,7 +45,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://fitness-website-teal.vercel.app/"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Demo{" "}
               <svg
@@ -93,7 +93,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://github.com/silonrajthala/travelWithUs"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Code{" "}
               <svg
@@ -114,7 +114,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://travelwithus-sepia.vercel.app/"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Demo{" "}
               <svg
@@ -161,7 +161,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://github.com/silonrajthala/ecommerceWebsite"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Code{" "}
               <svg
@@ -181,7 +181,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://ecommerce-website-mu-liard.vercel.app/"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Demo{" "}
               <svg
@@ -225,7 +225,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://github.com/silonrajthala/Webapp-portfolio"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Code{" "}
               <svg
@@ -245,7 +245,7 @@ function Projects() {
             <a
               target="_blank"
               href="https://silonrajthala76.web.app/"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               Demo{" "}
               <svg
