@@ -20,13 +20,13 @@ height:200dvh;  jun section ma content 1 page vanda baadi vako lai height halne 
 
   
 .footer{
+  display: flex;
+  justify-content: center;
   background-color: rgb(19, 23, 23);
   height:150px
 }
 footer h1{
-  padding-top: 50px;
-  padding-bottom: 50px;
-  padding-left: 100px;
+  padding-top: 20px;
   color:whitesmoke
 }
 
@@ -45,12 +45,10 @@ footer h1{
   }
   .footer{
     background-color: rgb(19, 23, 23);
-    height:70px
+    height:100px
   }
   footer h1{
-    padding-top: 30px;
-    padding-bottom: 10px;
-    padding-left: 30px;
+  
     color:whitesmoke;
     font-size: medium;
   }

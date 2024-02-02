@@ -29,16 +29,17 @@
   border-radius: 20px;
   background-color: #fff;
 }
-.project-img {
+.project-img-1 {
   height: 400px;
   width: 65%;
 
   min-height: 250px;
   min-width: 400px;
-  background-image: url("../../images/Project1.png");
+  background-image: url("../../images/project1.png");
   background-size: cover;
-  background-position: center;
-
+  background-position: top;
+  overflow-y: hidden;
+  transition: all 4s ease;
   border-radius: 20px;
   z-index: 0;
 }
@@ -48,7 +49,7 @@
 
   min-height: 250px;
   min-width: 400px;
-  background-image: url("../../images/Project2.png");
+  background-image: url("../../images/project2.png");
   background-size: cover;
   background-position: center;
 
@@ -58,12 +59,14 @@
 .project-img-0 {
   height: 400px;
   width: 65%;
-
   min-height: 250px;
   min-width: 400px;
   background-image: url("../../images/project0.png");
   background-size: cover;
-  background-position: center;
+  background-position: top;
+  overflow-y: hidden;
+  transition: all 4s ease;
+
 
   border-radius: 20px;
   z-index: 0;
@@ -76,7 +79,10 @@
   min-width: 400px;
   background-image: url("../../images/project3.png");
   background-size: cover;
-  background-position: center;
+  background-position: top;
+  overflow-y: hidden;
+  transition: all 4s ease;
+
 
   border-radius: 20px;
   z-index: 0;
@@ -157,7 +163,7 @@
   .project-intro{
     width: auto;
   }
-  .project-img,
+  .project-img-1,
   .project-img-2,
   .project-img-0,
   .project-img-3
@@ -167,4 +173,11 @@
     width: auto;
     min-width: 200px;
   }
+}
+
+.project-img-3:hover,
+.project-img-0:hover ,
+.project-img-1:hover  {
+  cursor: pointer;
+  background-position: bottom;
 }

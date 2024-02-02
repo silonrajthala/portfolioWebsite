@@ -73,9 +73,9 @@ function Projects() {
         <div className="project-img-0"></div>
       </div>
       <div className="project1">
-        <div className="project-img"></div>
+        <div className="project-img-1"></div>
         <div className="project-intro">
-          <div className="project-intro-head">Fitness</div>
+          <div className="project-intro-head">Travel With Us</div>
           <div className="project-intro-body">
             <h3>
               A Travel With Us website is an online platform that allows users

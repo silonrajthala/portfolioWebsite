@@ -4,6 +4,8 @@ import '../App.css'
 import "../Components/Styles/Home.css";
 
 function Home() {
+
+  
   return (
     
       <div className="home-container">
