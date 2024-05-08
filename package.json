@@ -20,11 +20,14 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  
+  
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -48,14 +51,15 @@
     "browserslist": "^4.23.0",
     "chokidar": "^3.6.0",
     "core-js": "^3.36.0",
- 
     "har-validator": "^5.1.5",
     "npm-force-resolutions": "^0.0.10",
-    "request": "^2.88.2",
     "resolve-url": "^0.2.1",
     "rollup-plugin-babel": "^4.4.0",
     "urix": "^0.1.0",
     "uuid": "^9.0.1"
+  },"resolutions": {
+    "nth-check": "2.0.1",
+    "postcss": "8.4.31"
   }
   
 }
