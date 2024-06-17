@@ -25,7 +25,7 @@ class App extends Component {
             <Contact />
           </section>
           <footer className="footer">
-            <h1>Copyright © 2023. All rights are reserved</h1>
+            <h1>Copyright © 2023. All rights are reserved.</h1>
             
            </footer>
         </div>
