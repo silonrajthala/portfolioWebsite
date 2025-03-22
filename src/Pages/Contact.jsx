@@ -91,7 +91,8 @@ function Contact() {
           </span>
           <span data-text="Location: SU.NA.PA-4,BKT">
             <a
-              href="https://www.google.com/maps/@27.6561171,85.387849,18z?entry=ttu"
+              // href="https://www.google.com/maps/@27.6561171,85.387849,18z?entry=ttu"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >

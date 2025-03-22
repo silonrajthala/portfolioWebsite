@@ -23,10 +23,11 @@ function Home() {
         <div className="skills">
           Tech Stack 
           <div className="logo">
-            
+              <img src="https://skillicons.dev/icons?i=laravel" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=html" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=css" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=js" alt="skill-icon"></img>
+              <img src="https://skillicons.dev/icons?i=jquery" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=react" alt="skill-icon"></img>
               {/* <img src="https://skillicons.dev/icons?i=next" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=scss" alt="skill-icon"></img>*/}
@@ -34,6 +35,7 @@ function Home() {
               <img src="https://skillicons.dev/icons?i=flutter" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=dart" alt="skill-icon"></img>
               <img src="https://skillicons.dev/icons?i=firebase" alt="skill-icon"></img>
+              {/* <img src="https://skillicons.dev/icons?i=sqlserver" alt="skill-icon"></img> */}
             
           </div>
         </div>
